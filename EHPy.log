@@ -1,0 +1,147 @@
+2024-10-25 17:31:44 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')2024-10-25 17:31:46 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 17:31:46 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 17:33:53 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 17:34:31 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 17:35:15 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 17:35:43 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 17:36:42 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:28:46 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:28:46 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 20:28:46 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 20:34:22 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:34:24 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 20:34:24 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 20:34:53 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:37:46 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:37:48 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 20:37:48 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 20:38:11 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:40:50 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:40:50 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 20:40:50 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 20:48:27 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:48:27 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 20:48:27 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 20:51:11 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:51:11 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 20:51:11 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 20:51:32 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:51:32 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 20:51:32 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 20:52:23 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:52:23 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 20:52:23 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 20:53:55 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:53:55 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 20:53:55 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 20:56:31 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:56:31 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 20:56:31 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 20:57:40 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE = zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:57:40 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 20:57:40 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 20:58:57 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE=zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:58:57 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 20:58:57 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 20:59:46 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE=zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 20:59:46 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 20:59:46 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
+2024-10-25 21:07:28 FuncName: EHODBC.fnConnect
+	Connection build fail!
+	strCNN: DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE=zcnerp;UID=erpuser;Pwd=Zentel_ERPUser001;OPTION=16
+	Err: ('IM002', '[IM002] [Microsoft][ODBC 驅動程式管理員] 找不到資料來源名稱且未指定預設的驅動程式 (0) (SQLDriverConnect)')
+2024-10-25 21:07:28 FuncName: EHXLRpt.fnRptSQL
+	udeDBType == udeDBTypeNA!
+2024-10-25 21:07:28 FuncName: EHDBApply.fnDBRSTValueGet
+	EHDBApply.fnDBRSTValueGet: EHDB.fnDBRSTGet: udtCNN Get Fail!
